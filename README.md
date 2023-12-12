@@ -1,4 +1,31 @@
-# LogoMaker
+
+# Logo Generator  
+
+
+## Description
+This application is built to generate a logo that contains 3 leters of text and can come in Cirlces, Triangles, and Squares! You can also customize the color of the text/shape with color names or hexadecimal color codes!
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+
+## Installation
+run "npm install" to get the necessary version of inquirer and then run "node index.js" to start the process!
+
+## Usage
+Use this application to generate a logo for anything you need! More shapes and options to come!
+
+## License
+This application is covered under the None license. For more information, see []().
+
+## Contributing
+If you have any recommendations or inqueries, feel free to reach out to me!
+
+## Tests
 
 <p>AS a freelance web developer<br>
 I WANT to generate a simple logo for my projects<br>
@@ -19,3 +46,6 @@ THEN an SVG file is created named `logo.svg`<br>
 AND the output text "Generated logo.svg" is printed in the command line<br>
 WHEN I open the `logo.svg` file in a browser<br>
 THEN I am shown a 300x200 pixel image that matches the criteria I entered<br>
+
+## Questions
+Feel free to reach out to me with questions, comments, concerns, and sarcastic remarks through my GitHub: [MatthewChappelle](https://github.com/MatthewChappelle) Or my email: [matt@gmail.com]

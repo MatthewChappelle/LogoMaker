@@ -78,7 +78,7 @@ const writeToFile = (fileName, answers) => {
         svgString += shapeChoice.render();
     };
 
-    //adds text to svg
+    //adds text to svg and closes string
     svgString += `<text x="150" y="110" text-anchor="middle" font-size="40" fill="${answers.textColor}">${answers.text}</text>`;
     svgString += "</g>";
     svgString += "</svg>";
